@@ -1,1 +1,1 @@
-sudo java -jar ns-usbloader-5.2.jar
+sudo java -jar ns-usbloader-7.1.jar
